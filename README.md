@@ -1,6 +1,10 @@
 # Présentation 
 je suis Gwendal COUVIDOUX, étudiant en deuxième année d'IUT informatique à Limoges dans l'optique d'obtenir un BUT informatique. Le parcours de mon IUT est le parcours A : conception, réalisation et déploiement d'application.
+
+
 Je suis pationné d'informatique depuis le collège avec les premiers cours de technologies qui m'ont permis une première découverte très superficiel de la programation. J'ai donc choisi un lycée spécialisé dans l'informatique, le lycée turgot a Limoges, afin d'en apprendre plus sur le développement. J'ai donc choisi les spécialité Math, physique-chimie et NSI en première puis j'ai gardé NSI et Math en terminal, J'ai également pris les options ANglais DNL afin de parfaire mon niveau d'anglais mais aussi math expert dans l'objectif d'avoir des connaissance mathématique approfondis qui serai utile dans le futur.
+
+
 Suite a l'obtention de mon BAC je me suis orienté vers un BUT informatique parcours A car c'est d'un coté le continuité pure de mes études au niveau lycée et de l'autre c'est le parcours le plus général qui permet d'avoir des connaissances ouvrant beaucoup d'opportunités.
 
 <!--
