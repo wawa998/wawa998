@@ -1,4 +1,4 @@
-### Hi there 👋
+Bonjours, je suis Gwendal COUVIDOUX, étudiant en deuxième année d'IUT informatique à Limoges dans l'optique d'obtenir un BUT informatique. Le parcours de mon IUT est le parcours A : conception, réalisation et déploiement d'application.
 
 <!--
 **wawa998/wawa998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
