@@ -65,22 +65,64 @@ Les différents projets ainsi que ma personnalité m'ont permis de développer d
 
 # Projet
 - sae
-  - S1.01
-  - S1.02
-  - S1.03 
-  - S1.04
-  - S1.05
-  - S1.06
+
+  Situation d'apprenttissage évalué, cela correspond a tout mes projets universsitaire, tous réalisé en équipe.
+  - S1.01 : Réalisation et développement d'application
+    
+    Mettre en place, en python, 3 jeux jouable dans la console, un jeu de devinette, le jeu des allumettes et un morpion. Integrer un menu permettant de sélectionner le jeu, un système de score et de profil de joueur.
+    
+  - S1.02 : Optimiser des applications 
  
-  - S2.01
-  - S2.02
-  - S2.03 
-  - S2.04
-  - S2.05
-  - S2.06
+    Ajouter des bots de différentes difficultés aux jeux crée dans la S1.01, permettre la sélection entre les mode joueur contre joueur, joueur contre bot et bot contre bot.
+    
+  - S1.03 : Administrer des systèmes informatiques communiquants complexs 
+
+    Instlation d'une machine virtuel DEBIAN, configuration et création d'un scrip permettant de créer des comptes étudiant à partir d'un fichier .txt.
+    
+  - S1.04 : Gérer des données de l'information
  
+    Importation de donnée d'un fichier CSV dans une base de données et création de différentes requêtes afin d'afficher des graphiques.
+    
+  - S1.05 : Conduire un projet
+ 
+    Création du recueil des besoins de la construction du family village de Limoges en 2010.
+    
+  - S1.06 : Collaborer au sein d'une équipe informatique 
+
+    Faire des recherche sur un métier informatique et interviewer un professionel du dit métier, puis préparer une présentation des deux réunis.
+    
+
+  - S2.01 : Réalisation et développement d'application
+ 
+    Numérialisation du jeu de société "Le verger" en language Java, interface visuel a faire en JavaFX
+    
+  - S2.02 : Optimiser des applications
+ 
+    Faire attention a la qualité de code du S2.01 (principe S.O.L.I.D et design pattern) et utiliser git pour faire une gestion de version (chaque version ajoute une nouvelle fonctionnalité)
+     
+  - S2.03 : Administrer des systèmes informatiques communiquants complexs
+ 
+    Configurer un réseau sous kathara avec des contraintes, dans ce cas avoir un serveur DHCP, un pont DNS pour se connecté a un pc depuis l'extérieur et une connexion internet sur toute les machines
+    
+  - S2.04 : Gérer des données de l'information
+ 
+    Mise en place et remplissage de base de données sous postgreSQL, utilisation de metabase pour faire des graphiques
+    
+  - S2.05 : Conduire un projet
+ 
+    Organisation d'un forum d'association, gérer le budget, les animations, les emplacements, la communication autour et l'inscription des associations ainsi que leurs emplacements.
+    
+  - S2.06 : Collaborer au sein d'une équipe informatique 
+
+    Gérer un évènement réel "Graine de talent" qui consiste à inviter des étudiants d'autres établissement a venir montrer les talents qu'ils possèdent, création d'affiche, présentation dans les autres départements, communication avec les étudiants
+
+
   - S3.01
-  - S3.02 
+   
+    Création d'une application permettant du ray tracing sur une image 2D à partir d'un squelette de code donné
+  - S3.02
+ 
+     Configurer un réseau sous kathara avec des contraintes, dans ce cas sécurisation de l'accès par internet et de l'accès au différents sous réseaux via des Iptables.
 <!--
 **wawa998/wawa998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
