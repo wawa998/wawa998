@@ -12,7 +12,7 @@ Suite a l'obtention de mon BAC je me suis orienté vers un BUT informatique parc
 
 Tout au long de mon parcours j'ai pus obtenir différentes compétences notemment dans le développement, la gestion de projet mais aussi le comunicagtion au sein d'une entreprise. Toutes ces compétences ont été valider par mes différents projets.
 
-# Hard skill
+## Hard skill
 
 Mon parcours ma permis d'obtenir des compétences dans différents language utilisé dans le developement d'application
 
@@ -47,7 +47,7 @@ Mon parcours ma permis d'obtenir des compétences dans différents language util
   - Virtual Box
 
    
-# Soft skill
+## Soft skill
 Les différents projets ainsi que ma personnalité m'ont permis de développer différents soft skill qui peuevnt être important dans une équipe de développement.
 
 - Travail d'équipe
