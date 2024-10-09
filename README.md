@@ -22,7 +22,7 @@ Mon parcours m’a permis d'obtenir des compétences dans différents langage ut
 
 
 - Base de données
-  - SqlServer
+  - ![SqlServer](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg)
   - PostgreSQL
   - Metabase
   - MySQL
