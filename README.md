@@ -1,6 +1,9 @@
 # Présentation 
 Je suis Gwendal COUVIDOUX, étudiant en deuxième année de d'IUT dans le département informatique de Limoges dans l'optique d'obtenir un BUT informatique. Le parcours de mon IUT est le parcours A : conception, réalisation et déploiement d'application.
-Rajouter Hobby, niveau d'anglais, rendre ca plus jolie
+
+Comme beaucoup dans mon domaine, je suis un joueur de jeux vidéo, j'aime également regarder des séries en tout genre et lire des livres. Écouter de la musique et passer du temps avec mes amis sont également des passes temps que j'apprécie particulièrement, surtout quand on fait des jeux de plateau tels que magic, jeu de rôle ou encore warhammer 40k.
+
+Anglais : C1
 
 # Parcours
 Je suis passionné d'informatique depuis le collège. Ce sont les premiers cours de technologie qui m'ont permis une première découverte très superficielle de la programmation. J'ai donc choisi un lycée spécialisé dans l'informatique, le lycée Turgot à Limoges, afin d'en apprendre plus sur le développement. J'ai donc choisi les spécialité Math, physique-chimie et NSI en première puis j'ai gardé NSI et Math en terminal, J'ai également pris les options Anglais DNL afin de parfaire mon niveau d'anglais mais aussi math expert dans l'objectif d'avoir des connaissances mathématiques approfondis qui serai utile dans le futur.
