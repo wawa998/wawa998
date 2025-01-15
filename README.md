@@ -22,13 +22,19 @@ Mon parcours m’a permis d'obtenir des compétences dans différents langage ut
 
 
 - **Base de données** 📊
-    - ![SqlServer](https://img.shields.io/badge/SqlServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+    - ![SqlServer](https://img.shields.io/badge/SqlServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white),
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), 
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white), 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), 
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat&logo=MongoDB)
+![Cassandra](https://img.shields.io/badge/Cassandra-blue?style=flat&logo=Cassandra)
+
 
 - **WEB** 🌐
     - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white), ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white), ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 
 - **Langages de Programmation** 💻
-    - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+    - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white), ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python)
 
 - **Outils de gestion de projet et de communication** 🛠️
     - ![Diagramme Gantt](https://img.shields.io/badge/Diagramme%20Gantt-4A90E2?style=flat), ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white), ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Virtual Box](https://img.shields.io/badge/Virtual%20Box-183A61?style=flat&logo=virtualbox&logoColor=white)
@@ -61,7 +67,7 @@ Les différents projets ainsi que ma personnalité m'ont permis de développer d
 - Alternance
   - Legrand 2024/ 2025
     
-    Alterance en troisième ann&e de B.U.T Informatique.
+    Alternance en troisième année de B.U.T Informatique. La mission est de préparer, développer et mettre en production un RPA, développer avec l'outils UIPath. Ce RPA à pour objectif d'automatiser les étapes de résolutions des commandes exceptionnel reçu par l'application de commande de l'équipe. Une capacité de communication est nécessaire car un contact avec les différentes équipes concerné par le processus est nécessaira afin de réaliser au mieux le RPA
 
 # Projet
 - SAE
